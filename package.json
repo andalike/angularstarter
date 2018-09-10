@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --host ec2-13-233-15-231.ap-south-1.compute.amazonaws.com --disable-host-check",
+    "start": "ng serve --host your-ec2-instance-here --disable-host-check",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
