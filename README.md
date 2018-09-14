@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or contact Ankit, You know whe
     7  sudo chown -R $USER /usr/local
     8  npm install -g @angular/cli
     9  npm install -g pm2
+    10 pm2 start npm — start
