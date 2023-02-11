@@ -23,7 +23,7 @@ To get more help on the Angular CLI use `ng help` or contact Ankit, You know whe
 
 
 ## Lazy? Run the below in the same order
-    1  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+    1  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
     2  sudo apt-get install -y nodejs
     3  mkdir ~/.npm-global
     4  export PATH=~/.npm-global/bin:$PATH
